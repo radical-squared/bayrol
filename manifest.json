@@ -1,0 +1,10 @@
+{
+  "codeowners": ["@sickidolderivative"],
+  "config_flow": false,
+  "dependencies": [],
+  "documentation": "https://github.com/sickidolderivative/bayrol",
+  "domain": "bayrol",
+  "name": "bayrol",
+  "version": "1.0",
+  "requirements": ["bs4"]
+}
